@@ -962,9 +962,9 @@ section {
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
-  .contact-info {
-    text-align: left;
-    padding-right: 40px;
+  .contact-icons {
+    text-align: justify;
+    padding-left: 50px;
   }
 
 } 
