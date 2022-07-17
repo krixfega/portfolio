@@ -258,6 +258,7 @@ section {
 }
 .about-container .left-about {
   padding-right: 5rem;
+  text-align: justify;
 }
 .about-container .left-about p {
   line-height: 2rem;
@@ -933,6 +934,7 @@ section {
     text-align: center;
     padding-top: 3rem;
   }
+ 
 }
 @media screen and (max-width: 700px) {
   .container {
@@ -960,5 +962,9 @@ section {
   .main-title h2 .bg-text {
     font-size: 4rem;
   }
-}
+  .contact-info {
+    text-align: left;
+    padding-right: 40px;
+  }
 
+} 
